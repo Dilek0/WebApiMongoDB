@@ -21,3 +21,4 @@ Mongo DB'ye insert update ve delete yapan bir kayıt yönetim sistemidir.
 ## Test
  1. İndirilen proje çalıştırılır.
  2. Postman'de aşağıdaki gibi bir post işlemi yapılarak ilk kayıt database atılır.
+ !sdds(https://github.com/Dilek0/WebApiMongoDB/blob/master/Screenshot.PNG)
