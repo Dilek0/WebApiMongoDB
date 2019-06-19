@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.AssemblyInfo.cs
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\bin\Debug\netcoreapp2.1\DilekSaylan.Assessment.deps.json
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\bin\Debug\netcoreapp2.1\DilekSaylan.Assessment.runtimeconfig.json
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\bin\Debug\netcoreapp2.1\DilekSaylan.Assessment.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\bin\Debug\netcoreapp2.1\DilekSaylan.Assessment.dll
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\bin\Debug\netcoreapp2.1\DilekSaylan.Assessment.pdb
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.RazorTargetAssemblyInfo.cache
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.dll
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.pdb
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\bin\Debug\netcoreapp2.1\DilekSaylan.Assessment.Views.dll
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.csproj.CopyComplete
+C:\Users\asus\Desktop\Github ekle\DilekSaylan.Assessment\DilekSaylan.Assessment\obj\Debug\netcoreapp2.1\DilekSaylan.Assessment.csprojAssemblyReference.cache
